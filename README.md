@@ -54,7 +54,7 @@ I love tackling complex problems, learning new technologies, and collaborating w
 ### 🌱 Currently Learning
 
 - **Laravel** and **Vue.js** to deepen my understanding of backend and frontend development.
-- **Android Studio** to build awesome mobile applications with an amazing UI.
+- **Android Studio** to build awesome mobile applications with an amazing UI and performance.
 - Sharpening my skills in **Data Structures & Algorithms** (DSA) with **Java**.
 
 ---
