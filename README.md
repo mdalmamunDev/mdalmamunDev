@@ -34,16 +34,16 @@ I love tackling complex problems, learning new technologies, and collaborating w
 
 ### 🚀 Projects
 
-#### 📱 Android Development:
-- **[AM Play](https://github.com/mdalmamunDev/AM-Play)**: A powerful music player app for Android that supports various audio formats and includes intuitive controls and UI.
-- **[Unit Converter](https://github.com/mdalmamunDev/Unit-Converter)**: A handy Android app for converting units of measurement, from length to temperature.
+#### 🌐 Fullstack Development (Laravel + Vue.js):
+- **[Online Course Management (SkillSyntax)](https://github.com/mad-programmers3/skill-syntax)**: A complete course management system, developed in collaboration with a team, featuring course creation, enrollment, and more.
+- **[FunTan](https://github.com/mdalmamunDev/fun-tan)**: A Laravel + Vue.js project that handles product management with a modern UI.
 
 #### 🖥️ Web Development:
 - **[Fashion Bazaar](https://github.com/mdalmamunDev/Fashion_Bazaar)**: A Laravel-based e-commerce platform for fashion, featuring user authentication, product management, and order handling.
   
-#### 🌐 Fullstack Development (Laravel + Vue.js):
-- **[Online Course Management (SkillSyntax)](https://github.com/mad-programmers3/skill-syntax)**: A complete course management system, developed in collaboration with a team, featuring course creation, enrollment, and more.
-- **[FunTan](https://github.com/mdalmamunDev/fun-tan)**: A Laravel + Vue.js project that handles product management with a modern UI.
+#### 📱 Android Development:
+- **[AM Play](https://github.com/mdalmamunDev/AM-Play)**: A powerful music player app for Android that supports various audio formats and includes intuitive controls and UI.
+- **[Unit Converter](https://github.com/mdalmamunDev/Unit-Converter)**: A handy Android app for converting units of measurement, from length to temperature.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Projects-More--Coming--Soon-blue" />
@@ -54,7 +54,7 @@ I love tackling complex problems, learning new technologies, and collaborating w
 ### 🌱 Currently Learning
 
 - **Laravel** and **Vue.js** to deepen my understanding of backend and frontend development.
-- **React Native** for cross-platform mobile app development.
+- **Android Studio** to build awesome mobile applications with an amazing UI.
 - Sharpening my skills in **Data Structures & Algorithms** (DSA) with **Java**.
 
 ---
