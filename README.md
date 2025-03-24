@@ -73,6 +73,9 @@ I love tackling complex problems, learning new technologies, and collaborating w
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=mdalmamunDev&show_icons=true&rank_icon=github&theme=radical" alt="GitHub Stats" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdalmamunDev&layout=donut&theme=radical" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://badges.pufler.dev/visits/mdalmamunDev/mdlamamunDev" alt="GitHub Visits Badge">
+</p>
 
 ---
 
