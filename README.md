@@ -133,15 +133,13 @@ flowchart TD
 
 ## 📚 Currently Learning
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Advanced_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Distributed](https://img.shields.io/badge/Distributed_Systems-0F172A?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud_%26_DevOps-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
+<p align="center">
+  <img height="28" src="https://img.shields.io/badge/Advanced_Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img height="28" src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img height="28" src="https://img.shields.io/badge/LLM_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Engineering" />
+  <img height="28" src="https://img.shields.io/badge/Distributed_Systems-0F172A?style=for-the-badge" alt="Distributed Systems" />
+  <img height="28" src="https://img.shields.io/badge/Cloud_%26_DevOps-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud and DevOps" />
+</p>
 
 ---
 
