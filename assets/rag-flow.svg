@@ -1,0 +1,54 @@
+<svg viewBox="0 0 900 640" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="Segoe UI, Roboto, Arial, sans-serif">
+  <style>
+    .n rect { fill:#111827; stroke:#334155; stroke-width:1.5 }
+    .n text { fill:#E2E8F0; font-size:14px; font-weight:600; text-anchor:middle; dominant-baseline:central }
+    .e { fill:none; stroke-width:2; stroke-dasharray:6 6; opacity:.4 }
+  </style>
+
+  <rect width="900" height="640" rx="16" fill="#0D1117"/>
+
+  <!-- edges -->
+  <g>
+    <path id="p1"  class="e" stroke="#38BDF8" d="M450,62 L450,98"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="1s" repeatCount="indefinite"/></path>
+    <path id="p2"  class="e" stroke="#F59E0B" d="M450,142 C450,165 220,155 220,178"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="1s" repeatCount="indefinite"/></path>
+    <path id="p3"  class="e" stroke="#A78BFA" d="M450,142 C450,165 680,155 680,178"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="1s" repeatCount="indefinite"/></path>
+    <path id="p4"  class="e" stroke="#F59E0B" d="M220,222 L220,258"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="1s" repeatCount="indefinite"/></path>
+    <path id="p5"  class="e" stroke="#F59E0B" d="M220,302 L220,338"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="1s" repeatCount="indefinite"/></path>
+    <path id="p6"  class="e" stroke="#F59E0B" d="M220,382 C220,470 450,430 450,498"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="1s" repeatCount="indefinite"/></path>
+    <path id="p7"  class="e" stroke="#A78BFA" d="M680,222 L680,258"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="1s" repeatCount="indefinite"/></path>
+    <path id="p8"  class="e" stroke="#A78BFA" d="M680,302 L680,338"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="1s" repeatCount="indefinite"/></path>
+    <path id="p9"  class="e" stroke="#A78BFA" d="M680,382 L680,418"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="1s" repeatCount="indefinite"/></path>
+    <path id="p10" class="e" stroke="#A78BFA" d="M680,462 C680,490 450,470 450,498"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="1s" repeatCount="indefinite"/></path>
+    <path id="p11" class="e" stroke="#38BDF8" d="M450,542 L450,578"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="1s" repeatCount="indefinite"/></path>
+  </g>
+
+  <!-- nodes (border flashes when the dot arrives) -->
+  <g class="n">
+    <g><rect x="360" y="18" width="180" height="44" rx="10"><animate attributeName="stroke" dur="8s" repeatCount="indefinite" keyTimes="0;0.1;1" values="#38BDF8;#334155;#334155"/></rect><text x="450" y="40">User Question</text></g>
+    <g><rect x="360" y="98" width="180" height="44" rx="10"><animate attributeName="stroke" dur="8s" repeatCount="indefinite" keyTimes="0;0.1;0.13;0.2;1" values="#334155;#334155;#38BDF8;#334155;#334155"/></rect><text x="450" y="120">Intent Routing</text></g>
+    <g><rect x="130" y="178" width="180" height="44" rx="10"><animate attributeName="stroke" dur="8s" repeatCount="indefinite" keyTimes="0;0.225;0.255;0.325;1" values="#334155;#334155;#F59E0B;#334155;#334155"/></rect><text x="220" y="200">Analytics</text></g>
+    <g><rect x="590" y="178" width="180" height="44" rx="10"><animate attributeName="stroke" dur="8s" repeatCount="indefinite" keyTimes="0;0.225;0.255;0.325;1" values="#334155;#334155;#A78BFA;#334155;#334155"/></rect><text x="680" y="200">Semantic Search</text></g>
+    <g><rect x="130" y="258" width="180" height="44" rx="10"><animate attributeName="stroke" dur="8s" repeatCount="indefinite" keyTimes="0;0.325;0.355;0.425;1" values="#334155;#334155;#F59E0B;#334155;#334155"/></rect><text x="220" y="280">Validated Prisma Query</text></g>
+    <g><rect x="590" y="258" width="180" height="44" rx="10"><animate attributeName="stroke" dur="8s" repeatCount="indefinite" keyTimes="0;0.325;0.355;0.425;1" values="#334155;#334155;#A78BFA;#334155;#334155"/></rect><text x="680" y="280">Embedding</text></g>
+    <g><rect x="130" y="338" width="180" height="44" rx="10"><animate attributeName="stroke" dur="8s" repeatCount="indefinite" keyTimes="0;0.425;0.455;0.525;1" values="#334155;#334155;#F59E0B;#334155;#334155"/></rect><text x="220" y="360">Database Result</text></g>
+    <g><rect x="590" y="338" width="180" height="44" rx="10"><animate attributeName="stroke" dur="8s" repeatCount="indefinite" keyTimes="0;0.425;0.455;0.525;1" values="#334155;#334155;#A78BFA;#334155;#334155"/></rect><text x="680" y="360">pgvector Search</text></g>
+    <g><rect x="590" y="418" width="180" height="44" rx="10"><animate attributeName="stroke" dur="8s" repeatCount="indefinite" keyTimes="0;0.5;0.53;0.6;1" values="#334155;#334155;#A78BFA;#334155;#334155"/></rect><text x="680" y="440">Context</text></g>
+    <g><rect x="360" y="498" width="180" height="44" rx="10"><animate attributeName="stroke" dur="8s" repeatCount="indefinite" keyTimes="0;0.65;0.68;0.75;1" values="#334155;#334155;#38BDF8;#334155;#334155"/></rect><text x="450" y="520">LLM</text></g>
+    <g><rect x="360" y="578" width="180" height="44" rx="10"><animate attributeName="stroke" dur="8s" repeatCount="indefinite" keyTimes="0;0.75;0.78;0.9;1" values="#334155;#334155;#38BDF8;#334155;#334155"/></rect><text x="450" y="600">Answer</text></g>
+  </g>
+
+  <!-- travelling dots (8s loop, branches run in parallel) -->
+  <g>
+    <circle r="5" fill="#38BDF8" opacity="0"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0;0.1;1" calcMode="linear"><mpath xlink:href="#p1"/></animateMotion><animate attributeName="opacity" dur="8s" repeatCount="indefinite" keyTimes="0;0.001;0.1;0.101;1" values="1;1;1;0;0"/></circle>
+    <circle r="5" fill="#F59E0B" opacity="0"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.1;0.225;1" calcMode="linear"><mpath xlink:href="#p2"/></animateMotion><animate attributeName="opacity" dur="8s" repeatCount="indefinite" keyTimes="0;0.1;0.101;0.225;0.226;1" values="0;0;1;1;0;0"/></circle>
+    <circle r="5" fill="#A78BFA" opacity="0"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.1;0.225;1" calcMode="linear"><mpath xlink:href="#p3"/></animateMotion><animate attributeName="opacity" dur="8s" repeatCount="indefinite" keyTimes="0;0.1;0.101;0.225;0.226;1" values="0;0;1;1;0;0"/></circle>
+    <circle r="5" fill="#F59E0B" opacity="0"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.225;0.325;1" calcMode="linear"><mpath xlink:href="#p4"/></animateMotion><animate attributeName="opacity" dur="8s" repeatCount="indefinite" keyTimes="0;0.225;0.226;0.325;0.326;1" values="0;0;1;1;0;0"/></circle>
+    <circle r="5" fill="#A78BFA" opacity="0"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.225;0.325;1" calcMode="linear"><mpath xlink:href="#p7"/></animateMotion><animate attributeName="opacity" dur="8s" repeatCount="indefinite" keyTimes="0;0.225;0.226;0.325;0.326;1" values="0;0;1;1;0;0"/></circle>
+    <circle r="5" fill="#F59E0B" opacity="0"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.325;0.425;1" calcMode="linear"><mpath xlink:href="#p5"/></animateMotion><animate attributeName="opacity" dur="8s" repeatCount="indefinite" keyTimes="0;0.325;0.326;0.425;0.426;1" values="0;0;1;1;0;0"/></circle>
+    <circle r="5" fill="#A78BFA" opacity="0"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.325;0.425;1" calcMode="linear"><mpath xlink:href="#p8"/></animateMotion><animate attributeName="opacity" dur="8s" repeatCount="indefinite" keyTimes="0;0.325;0.326;0.425;0.426;1" values="0;0;1;1;0;0"/></circle>
+    <circle r="5" fill="#F59E0B" opacity="0"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.425;0.575;1" calcMode="linear"><mpath xlink:href="#p6"/></animateMotion><animate attributeName="opacity" dur="8s" repeatCount="indefinite" keyTimes="0;0.425;0.426;0.575;0.576;1" values="0;0;1;1;0;0"/></circle>
+    <circle r="5" fill="#A78BFA" opacity="0"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.425;0.5;1" calcMode="linear"><mpath xlink:href="#p9"/></animateMotion><animate attributeName="opacity" dur="8s" repeatCount="indefinite" keyTimes="0;0.425;0.426;0.5;0.501;1" values="0;0;1;1;0;0"/></circle>
+    <circle r="5" fill="#A78BFA" opacity="0"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.5;0.65;1" calcMode="linear"><mpath xlink:href="#p10"/></animateMotion><animate attributeName="opacity" dur="8s" repeatCount="indefinite" keyTimes="0;0.5;0.501;0.65;0.651;1" values="0;0;1;1;0;0"/></circle>
+    <circle r="5" fill="#38BDF8" opacity="0"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.65;0.75;1" calcMode="linear"><mpath xlink:href="#p11"/></animateMotion><animate attributeName="opacity" dur="8s" repeatCount="indefinite" keyTimes="0;0.65;0.651;0.75;0.751;1" values="0;0;1;1;0;0"/></circle>
+  </g>
+</svg>

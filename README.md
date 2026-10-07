@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <a href="https://mdalmamundev.github.io"><img height="28" src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>
+  <a href="https://mdalmamundev.github.io"><img height="28" src="https://img.shields.io/badge/Portfolio-02b6e3?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/md-al-mamun-218b25243/"><img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mamun.dev.pro@gmail.com"><img height="28" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://leetcode.com/u/madalmamun53"><img height="28" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
@@ -96,20 +96,9 @@ Enterprise education platform combining traditional management architecture with
   <img height="22" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
 
-```mermaid
-flowchart TD
-    A[User Question] --> B[Intent Routing]
-    B --> C[Analytics]
-    B --> D[Semantic]
-    C --> E[Validated Prisma Query]
-    E --> F[Database result]
-    F --> G[LLM formatting]
-    D --> H[Embedding]
-    H --> I[pgvector]
-    I --> J[Context]
-    J --> G
-    G --> K[Answer]
-```
+<p align="center">
+  <img src="assets/rag-flow.svg" width="720" alt="RAG request flow" />
+</p>
 
 **Highlights**
 - 🧭 Intent-based routing across analytics, retrieval, and general queries
