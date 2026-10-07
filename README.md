@@ -144,15 +144,17 @@ flowchart TD
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mdalmamunDev&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdalmamunDev&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+<p>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=mdalmamunDev&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdalmamunDev&layout=compact&hide_border=true&theme=tokyonight&card_width=320" alt="Top Languages" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=mdalmamunDev&theme=tokyonight&hide_border=true" alt="Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdalmamunDev&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+<p>
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdalmamunDev&theme=tokyonight" alt="Profile Details" />
+  <img height="195" src="https://streak-stats.demolab.com?user=mdalmamunDev&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
 
 </div>
 
